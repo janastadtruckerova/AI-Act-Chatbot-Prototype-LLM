@@ -2,7 +2,7 @@
 # 🤖 AI Act Chatbot Prototyp (LLM Aplikácia)
 ## Koncepčný Návrh Riešenia pre Efektívne Spracovanie Komplexných Regulačných Textov
 
-Tento repozitár obsahuje zdrojové súbory a konfiguráciu pre jednoduchý **chatbot prototyp**, vytvorený v **Google AI Studio** s využitím modelu Gemini.
+Tento repozitár obsahuje sreenshot  pre jednoduchý **chatbot prototyp**, vytvorený v **Google AI Studio** s využitím modelu Gemini.
 
 ### **Zámer a Hodnota (Pre Konzulácie a Analytiku):**
 
