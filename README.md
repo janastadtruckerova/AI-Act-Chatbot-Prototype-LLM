@@ -12,4 +12,5 @@ Tento repozitár obsahuje sreenshot  pre jednoduchý **chatbot prototyp**, vytvo
 
 ---
 *Prototyp bol vytvorený s cieľom preukázať seniorskú schopnosť návrhu riešenia a nie pre produkčné nasadenie.*
-<img width="1920" height="1080" alt="Snímka obrazovky 2025-11-03 142617" src="https://github.com/user-attachments/assets/5a20ef2d-e6b0-4f22-ad9b-469469da9700" />
+<img width="1920" height="1080" alt="Snímka obrazovky 2025-11-06 172924" src="https://github.com/user-attachments/assets/fc22fa3a-2adf-411f-baa6-8946ffa90877" />
+
