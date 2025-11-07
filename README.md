@@ -1,6 +1,11 @@
 # AI-Act-Chatbot-Prototype-LLM
 # 🤖 AI Act Chatbot Prototyp (LLM Aplikácia)
-## Koncepčný Návrh Riešenia pre Efektívne Spracovanie Komplexných Regulačných Textov
+
+## 🌟 Prehľad projektu a Hodnota
+
+> **"Chatbot, ktorý odpovedá na otázky týkajúce sa Aktu EÚ o umelej inteligencii (AI Act), pričom poskytuje jasné a presné informácie založené na regulácii."**
+
+Tento projekt demonštruje využitie **Generatívnej AI a Large Language Model (LLM)** na efektívne spracovanie rozsiahlych regulačných dokumentov. Slúži ako kritický nástroj pre **Compliance a Risk Management**, pretože transformuje komplexné právne texty na rýchle a spoľahlivé odpovede.
 
 Tento repozitár obsahuje sreenshot  pre jednoduchý **chatbot prototyp**, vytvorený v **Google AI Studio** s využitím modelu Gemini.
 
